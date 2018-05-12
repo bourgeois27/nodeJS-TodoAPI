@@ -28,6 +28,8 @@ Installer les dépendances :
 
 `npm install`
 
-Exécuter le http-server:
+Exécuter l'API:
 
 `npm run dev`
+
+Utiliser le `http://localhost:3000/` comme baseUrl dans l'application MVC.
