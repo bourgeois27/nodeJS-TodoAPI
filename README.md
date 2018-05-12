@@ -30,4 +30,4 @@ Installer les dépendances :
 
 Exécuter le http-server:
 
-`npm start`
+`npm run dev`
